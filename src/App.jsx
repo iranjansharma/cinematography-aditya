@@ -1,9 +1,10 @@
 import './App.css';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <>
-      <p>Rollins Films</p>
+      <Hero />
     </>
   );
 }
