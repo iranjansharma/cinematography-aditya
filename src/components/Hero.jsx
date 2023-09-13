@@ -105,7 +105,7 @@ const Hero = () => {
               Get a Quote
             </a>
             <a
-              href='tel:+918178540300'
+              href=''
               className='ml-4 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-700 bg-transparent transition duration-300 ease-in-out hover:border-white lg:text-xl lg:font-bold  hover:text-orange-700 rounded border-white border-2 text-white px-4 sm:px-10 py-2 sm:py-4 text-sm'
             >
               Explore More
