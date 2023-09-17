@@ -7,8 +7,12 @@ export default {
   theme: {
     backgroundImage: {
       'hero': "url('/hero_bg.jpg')",
+      'about': "url('/about.jpg')",
     },
     extend: {},
   },
-  plugins: [],
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["light"],
+  },
 }
