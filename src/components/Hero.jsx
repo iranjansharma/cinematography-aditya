@@ -1,12 +1,9 @@
 import { Link } from 'react-router-dom';
 const Hero = () => {
   return (
-    <div
-      className='bg-gray-100 pb-12 overflow-y-hidden h-screen'
-      style={{ minHeight: 700 }}
-    >
+    <div className='bg-gray-100 pb-12 overflow-y-hidden h-screen'>
       <dh-component>
-        <div className='h-4/6 bg-hero lg:bg-cover lg:h-5/6 flex flex-col justify-center items-center'>
+        <div className='h-4/6 bg-hero lg:bg-cover lg:h-screen flex flex-col justify-center items-center'>
           <h1 className='text-4xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-white font-black leading-relaxed md:leading-10 capitalize'>
             I&apos;m Cinematographer
           </h1>
