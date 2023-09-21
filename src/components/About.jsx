@@ -2,7 +2,7 @@ const About = () => {
   return (
     <>
       <p className='container mx-auto px-4 lg:py-6 my-6 text-black lg:text-5xl uppercase font-bold'>
-        About Section
+        About
       </p>
       <div className='container mx-auto flex flex-wrap '>
         <div>
