@@ -10,7 +10,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Fashion.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
@@ -19,7 +19,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Portrait.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
@@ -28,7 +28,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Automobile.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
@@ -37,7 +37,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Ecom.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
@@ -46,7 +46,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Product.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
@@ -55,7 +55,7 @@ const Photography = () => {
             <img
               src="https://github.com/iranjansharma/cinematography-aditya/blob/main/src/assets/Events.jpg?raw=true"
               alt=""
-              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover grayscale hover:grayscale-0 ease-linear duration-300 hover:scale-105 "
+              className="w-full h-[500px] lg:w-[500px] lg:h-[600px] rounded-xl object-cover ease-linear duration-300 hover:scale-105"
             />
           </Link>
         </div>
