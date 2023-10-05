@@ -1,6 +1,8 @@
+import Div from './Div'
+
 const Fashion = () => {
   return (
-    <div>Fashion</div>
+    <Div>Fashion</Div>
   )
 }
 

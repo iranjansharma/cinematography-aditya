@@ -1,6 +1,8 @@
+import Div from './Div'
+
 const Product = () => {
   return (
-    <div>Product</div>
+    <Div>Product</Div>
   )
 }
 

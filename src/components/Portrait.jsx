@@ -1,6 +1,8 @@
+import Div from './Div'
+
 const Portrait = () => {
   return (
-    <div>Portrait</div>
+    <Div>Portrait</Div>
   )
 }
 

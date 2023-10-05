@@ -1,6 +1,8 @@
+import Div from './Div'
+
 const Automobile = () => {
   return (
-    <div>Automobile</div>
+    <Div>Automobile</Div>
   )
 }
 

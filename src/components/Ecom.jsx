@@ -3,7 +3,7 @@ import Div from './Div'
 const Ecom = () => {
   return (
     <Div>
-      <p>Ecom</p>
+      Ecom
     </Div>
   )
 }
