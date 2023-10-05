@@ -71,16 +71,16 @@ const Navbar = () => {
               </button>
               <ul className='flex text-3xl md:text-base items-center py-10 md:flex flex-col md:flex-row justify-center fixed md:relative top-0 bottom-0 left-0 right-0 bg-white md:bg-transparent z-20'>
                 <li className='uppercase text-gray-700 font-medium cursor-pointer text-base lg:text-base pt-10 md:pt-0 hover:text-orange-500 ease-in duration-200'>
-                  <Link to='/'>Home</Link>
+                  <Link to='/'>home</Link>
                 </li>
                 <li className='uppercase text-gray-700 font-medium cursor-pointer text-base lg:text-base pt-10 md:pt-0 hover:text-orange-500 ease-in duration-200 md:ml-5 lg:ml-10'>
-                  <Link to='/Cinematography'>Cinematography</Link>
+                  <Link to='/cinematography'>Cinematography</Link>
                 </li>
                 <li className='uppercase text-gray-700 font-medium cursor-pointer text-base lg:text-base pt-10 md:pt-0 hover:text-orange-500 ease-in duration-200 md:ml-5 lg:ml-10'>
-                  <Link to='/Photography'>Photography</Link>
+                  <Link to='/photography'>Photography</Link>
                 </li>
                 <li className='uppercase text-gray-700 font-medium  cursor-pointer text-base lg:text-base pt-10 md:pt-0 hover:text-orange-500 ease-in duration-200 md:ml-5 lg:ml-10'>
-                  <Link to='/Quote'>Quote</Link>
+                  <Link to='/quote'>Quote</Link>
                 </li>
                 <li className='uppercase text-gray-700 font-medium cursor-pointer text-base lg:text-base pt-10 md:pt-0 hover:text-orange-500 md:ml-5 lg:ml-10 ease-in duration-200'>
                   <Link to='/about'>About</Link>
