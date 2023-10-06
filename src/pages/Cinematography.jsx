@@ -1,6 +1,8 @@
+import Div from './../components/Div'
+
 const Cinematography = () => {
   return (
-    <div className="container mx-auto">Cinematography</div>
+    <Div>Cinematography</Div>
   )
 }
 

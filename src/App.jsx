@@ -6,12 +6,12 @@ import NotFound from './pages/NotFound';
 import Contact from './pages/Contact';
 import Photography from './pages/Photography';
 import Cinematography from './pages/Cinematography';
-import Fashion from './components/Fashion';
-import Portrait from './components/Portrait'
-import Automobile from './components/Automobile'
-import Ecom from './components/Ecom'
-import Product from './components/Product'
-import Events from './components/Events'
+import Fashion from './pages/Fashion';
+import Portrait from './pages/Portrait'
+import Automobile from './pages/Automobile'
+import Ecom from './pages/Ecom'
+import Product from './pages/Product'
+import Events from './pages/Events'
 
 function App() {
   return (

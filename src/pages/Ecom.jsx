@@ -1,4 +1,4 @@
-import Div from './Div'
+import Div from '../components/Div'
 
 const Ecom = () => {
   return (
