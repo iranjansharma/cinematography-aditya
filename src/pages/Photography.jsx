@@ -1,10 +1,12 @@
-import { Link } from 'react-router-dom';
 import Div from '../components/Div';
 import PhotographyCard from '../components/PhotographyCard';
 
 const Photography = () => {
   return (
     <Div>
+      <h1 className='py-4 text-lg lg:py-6 font-black lg:text-4xl'>
+        Photography
+      </h1>
       <div className='grid grid-cols-1 lg:grid-cols-3 gap-10 autofill:grid justify-center items-center my-6 '>
         <PhotographyCard
           URI='/photography/fashion'

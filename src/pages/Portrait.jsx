@@ -39,14 +39,14 @@ const Portrait = () => {
         </div>
         <div className='grid gap-4'>
           <ImageModal URI={pt4} ALT='Portraits' />
-          <ImageModal URI={pb1} ALT='Portraits' />
+          <ImageModal URI={pt5} ALT='Portraits' />
           <ImageModal URI={pt6} ALT='Portraits' />
         </div>
         <div className='grid gap-4'>
           <ImageModal URI={pt7} ALT='Portraits' />
         </div>
         <div className='grid gap-4'>
-          <ImageModal URI={pb1} ALT='Portraits' />
+          <ImageModal URI={pt8} ALT='Portraits' />
         </div>
         <div className='grid gap-4'>
           <ImageModal URI={pt1} ALT='Portraits' />

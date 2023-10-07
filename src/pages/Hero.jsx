@@ -1,9 +1,10 @@
 import { Link } from 'react-router-dom';
+import Photography from './Photography';
 const Hero = () => {
   return (
-    <div className='bg-gray-100 pb-12 overflow-y-hidden h-[750px]'>
+    <div className='bg-gray-100 pb-12 overflow-y-hidden'>
       <dh-component>
-        <div className='h-4/6 bg-hero lg:bg-cover lg:h-screen flex flex-col justify-center items-center'>
+        <div className='h-[650px] bg-hero bg-cover lg:h-[750px]  flex flex-col justify-center items-center'>
           <h1 className='text-4xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-white font-black leading-relaxed md:leading-10 capitalize'>
             I&apos;m Cinematographer
           </h1>
@@ -23,6 +24,10 @@ const Hero = () => {
           </div>
         </div>
       </dh-component>
+      <h1 className='container mx-auto mt-4 text-center text-2xl underline uppercase lg:py-6 lg:text-left font-black lg:text-4xl'>
+        Photography
+      </h1>
+      <Photography />
     </div>
   );
 };
