@@ -4,7 +4,7 @@ import PhotographyCard from '../components/PhotographyCard';
 const Photography = () => {
   return (
     <Div>
-      <h1 className='container mx-auto mt-4 text-center text-2xl underline uppercase lg:py-6 lg:text-left font-black lg:text-4xl'>
+      <h1 className='container mx-auto mt-4 text-center text-2xl  lg:py-6 lg:text-left font-black lg:text-4xl'>
         Photography
       </h1>
       <div className='grid grid-cols-1 lg:grid-cols-3 gap-10 autofill:grid justify-center items-center my-6 '>
