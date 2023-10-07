@@ -1,11 +1,7 @@
-import Div from '../components/Div'
+import Div from '../components/Div';
 
 const Ecom = () => {
-  return (
-    <Div>
-      Ecom
-    </Div>
-  )
-}
+  return <Div>Ecom</Div>;
+};
 
-export default Ecom
+export default Ecom;
