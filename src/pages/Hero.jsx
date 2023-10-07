@@ -24,9 +24,6 @@ const Hero = () => {
           </div>
         </div>
       </dh-component>
-      <h1 className='container mx-auto mt-4 text-center text-2xl underline uppercase lg:py-6 lg:text-left font-black lg:text-4xl'>
-        Photography
-      </h1>
       <Photography />
     </div>
   );
