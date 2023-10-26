@@ -8,16 +8,19 @@ const Navbar = () => {
       <nav className='w-full border-b'>
         <div className='px-4 py-4 md:py-0 container mx-auto flex items-center justify-between'>
           <div aria-label='Home. logo' role='img'>
-            {/* <img
-                className='w-[150px] md:w-[250px] mix-blend-multiply'
-                src='/logo.jpg'
+            <Link to='/'>
+              <img
+                className='w-[90px] md:w-[100px] mix-blend-multiply'
+                src='/logo.png'
                 alt='logo'
-              /> */}
-            <p className='text-xl capitalize'>
+              />
+            </Link>
+
+            {/* <p className='text-xl capitalize'>
               <Link to='/'>
                 The Rollin<span className='text-orange-500'> Films</span>
               </Link>
-            </p>
+            </p> */}
           </div>
           <div>
             <button
